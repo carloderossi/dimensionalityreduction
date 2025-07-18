@@ -12,6 +12,8 @@ The Mushroom Dataset contains several categorical features describing various ph
 
 The objective of this project is to apply various dimensionality reduction techniques and evaluate their effectiveness in preserving the important information within the dataset.
 
+![TSNEPerplexity](./TSNEPerplexity.jpg)
+
 ## Approach
 
 1. **Data Preprocessing**:
